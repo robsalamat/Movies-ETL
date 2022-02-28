@@ -53,8 +53,10 @@ Britta needs help to create an automated pipeline that takes in new data, perfor
 ### D. Creating the Movie Database 
 
 **movies_query**
+
 ![](Resources/movies_query.PNG)
 
 **ratings_query**
+
 ![](Resources/ratings_query.PNG)
 
