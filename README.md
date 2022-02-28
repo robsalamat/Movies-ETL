@@ -11,17 +11,27 @@ Britta needs help to create an automated pipeline that takes in new data, perfor
 
 ## II. Analysis and Results
 
-![](1.wiki_movies_df.PNG)
+### A. Writing an ETL Function to Read Three Data Files
 
-![](1.kaggle_metadata_df.PNG)
+![](analysis/1.wiki_movies_df.PNG)
 
-![](1.ratings_df.PNG)
+![](analysis/1.kaggle_metadata_df.PNG)
 
-![](2.wiki_movies_df.PNG)
+![](analysis/1.ratings_df.PNG)
 
-![](2.wiki_movies_df.columns.PNG)
+### B. Extracing and Transforming the Wikipedia Data
+![](analysis/2.wiki_movies_df.PNG)
 
-![](3.movies_with_ratings.PNG)
+![](analysis/2.wiki_movies_df.columns.PNG)
 
-![](3.movies_df.PNG)
+### C. Extracing and Transforming the Kaggle Data
+![](analysis/3.movies_with_ratings.PNG)
+
+![](analysis/3.movies_df.PNG)
+
+### D. Creating the Movie Database 
+
+![](Resources/movies_query.PNG)
+
+![](Resources/ratings_query.PNG)
 
